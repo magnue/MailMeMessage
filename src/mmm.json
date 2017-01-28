@@ -1,0 +1,6 @@
+{
+  "app_name": "MailMeMessage",
+  "my_gmail": "YourGMailAccount",
+  "my_pass": "YourGMailPasswordOrTwoStageAppPassword",
+  "reciever_email": "RecipientMail"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "mmm",
+  "version": "0.0.1",
+  "description": "Command-line mailclient for sending simple message",
+  "main": "mmm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL",
+  "bin": "mmm.js",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "nodemailer": "^2.7.2"
+  }
+}
